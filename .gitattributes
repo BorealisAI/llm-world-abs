@@ -1,0 +1,2 @@
+datasets/cook_data.zip filter=lfs diff=lfs merge=lfs -text
+datasets/gripper_data.zip filter=lfs diff=lfs merge=lfs -text
